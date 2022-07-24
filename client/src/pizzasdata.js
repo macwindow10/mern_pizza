@@ -14,7 +14,7 @@ const pizzas = [
       }
     ],
     "category": "nonveg",
-    "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfb0Hr4a7qYddjuLsI1vZuCsvs5t78refKqg&usqp=CAU",
     "description": "Pepper Barbecue Chicken I Cheese"
   },
   {
@@ -33,7 +33,7 @@ const pizzas = [
       }
     ],
     "category": "nonveg",
-    "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+    "image": "https://ph-web-bucket.s3.us-east-2.amazonaws.com/data/img/products/images/132-1627418066-Fajita-Sicilian.jpeg",
     "description": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers"
   },
   {
